@@ -1,4 +1,4 @@
-## Tata iQ Virtual Experience Program Readme
+## Tata iQ Virtual Experience Program 
 
 This virtual experience program, offered by Tata iQ (Tata Insights and Quants), allowed me to explore how passionate, multidisciplinary experts use data visualization tools like Tableau and Power BI to address complex business challenges and reveal valuable insights hidden within extensive datasets.
 
